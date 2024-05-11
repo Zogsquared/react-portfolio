@@ -112,3 +112,12 @@
         }
     }
 }
+
+@media screen and (max-width: 1200px) {
+    .about-page,
+    .contact-page {
+        .text-zone {
+            width: 80%; 
+        }
+    }
+  }
